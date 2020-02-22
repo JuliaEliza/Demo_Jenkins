@@ -11,4 +11,5 @@
 	<p>
 		You are coming from ....||!!!!!!!!!!!!!
 		<%= request.getRemoteAddr()  %></p>
+<img src="C:\Users\LENOVO\Pictures\kit.jpg">
 </body>
